@@ -1,0 +1,2 @@
+=======
+CROPPIE + LARAVEL 5
